@@ -1,10 +1,6 @@
 //
 //  CustomColors.swift
 //  CountdownTimer
-//
-//  Created by Jonni Akesson on 2017-04-21.
-//  Copyright © 2017 Jonni Akesson. All rights reserved.
-//
 
 import UIKit
 
